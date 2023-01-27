@@ -5,17 +5,17 @@ remind_me
 # This function contains a reminder of my friend's birthday.
 # Example use:
 remind_me()
-[1] "1998-08-26"
+# [1] "1998-08-26"
 
 
 cheat
 # This function tells user the correct answer to Question 1, 7, 17 in Assignment 3.1
 # Example use：
 cheat(7)
-[1] "ggplot(ChickWeight, aes(x = Time, y = weight)) +\n  geom_smooth(method = lm)"
+# [1] "ggplot(ChickWeight, aes(x = Time, y = weight)) +\n  geom_smooth(method = lm)"
 
 cheat(3)
-[1] "Sorry the question you asked is not on this cheatsheet"
+# [1] "Sorry the question you asked is not on this cheatsheet"
 
 
 make_art
