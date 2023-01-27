@@ -1,5 +1,5 @@
 # PIPS2023
-# PIPS2023 Contains three function that I made for PIPS 2023 Assignment 3.2R
+# PIPS2023 Contains three functions that I made for PIPS 2023 Assignment 3.2R
 
 # remind_me
 This function contains a reminder of my friend's birthday.
@@ -24,6 +24,6 @@ This function allows user to make random rainbow-colored wave line graph art. It
 ## Example use:
 ### make_art(seed = 123)
 This would return a reproducible image with the seed set as 123
-or
+
 ### make_art()
 This would generate different image every time you run
